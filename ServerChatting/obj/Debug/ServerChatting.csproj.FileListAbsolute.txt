@@ -1,0 +1,6 @@
+c:\users\for example john\documents\visual studio 2015\Projects\ServerChatting\ServerChatting\bin\Debug\ServerChatting.exe.config
+c:\users\for example john\documents\visual studio 2015\Projects\ServerChatting\ServerChatting\obj\Debug\ServerChatting.csprojResolveAssemblyReference.cache
+c:\users\for example john\documents\visual studio 2015\Projects\ServerChatting\ServerChatting\bin\Debug\ServerChatting.exe
+c:\users\for example john\documents\visual studio 2015\Projects\ServerChatting\ServerChatting\bin\Debug\ServerChatting.pdb
+c:\users\for example john\documents\visual studio 2015\Projects\ServerChatting\ServerChatting\obj\Debug\ServerChatting.exe
+c:\users\for example john\documents\visual studio 2015\Projects\ServerChatting\ServerChatting\obj\Debug\ServerChatting.pdb
